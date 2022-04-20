@@ -1,2 +1,2 @@
 # Working with GitHub
-+ Create an Accaunt on GitHub
++ Create an Accaunt on GitHub.
